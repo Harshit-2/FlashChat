@@ -4,6 +4,6 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 
 <br>
 
-<img src="https://github.com/Harshit-2/FlashChat/assets/102576901/603f891d-575e-4c82-bf3f-627b38f24bc2" width="350"/> <br>
-<img src="https://github.com/Harshit-2/FlashChat/assets/102576901/bc16d4ec-b044-4ae5-b405-8d5d39c7f4a2" width="350"/> <br>
+<img src="https://github.com/Harshit-2/FlashChat/assets/102576901/603f891d-575e-4c82-bf3f-627b38f24bc2" width="350"/> <br> <br>
+<img src="https://github.com/Harshit-2/FlashChat/assets/102576901/bc16d4ec-b044-4ae5-b405-8d5d39c7f4a2" width="350"/> <br> <br>
 <img src="https://github.com/Harshit-2/FlashChat/assets/102576901/4f0fa66c-001b-40c9-8289-d92a35f82269" width="350"/>
